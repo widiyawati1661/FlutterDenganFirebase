@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992047315013",
+    "project_id": "fir-project-39faa",
+    "storage_bucket": "fir-project-39faa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992047315013:android:804e27a206743da217cb2c",
+        "android_client_info": {
+          "package_name": "aplikasi.flutter.dengan.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992047315013-s081oeor98nffmn42jskq727uv3k20lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdVzIMIlp_4E5V96tEyN7W0OOf-Kgw2KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992047315013-s081oeor98nffmn42jskq727uv3k20lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
